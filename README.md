@@ -1,12 +1,15 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=akasparm&label=Profile%20views&color=0e75b6&style=flat" alt="akasparm" /> </p>
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=akasparm&label=Profile%20views&color=0e75b6&style=flat" alt="akasparm" /> 
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+Parmar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+Parmar!" />
 </h1>
 
 <div align="center">
-<img src="https://github.com/akasparm/akasparm/blob/main/mushroom_project.gif"/>
+    <img src="https://github.com/akasparm/akasparm/blob/main/mushroom_project.gif" alt="Mushroom Project" />
 </div>
+
 
 <h3 align="center">Infusing heartbeats into robotics: Bridging mechanical designs with machine intelligence</h3>
 
